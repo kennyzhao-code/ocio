@@ -8,4 +8,7 @@ including tailored restaurants, landmarks, and local experiences. These are visu
 map-centric interface, providing users with a seamless transition from a vague "feeling" to a fully-mapped journey. 
 Built using **React**, **NextJs** and **Python FastAPI**. 
 
-[Devpost](https://devpost.com/software/ocio)
+Original [Repo](https://github.com/anthonyhana04/MacHacks)
+
+[<img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=Devpost&logoColor=white" />](https://devpost.com/software/ocio)
+
